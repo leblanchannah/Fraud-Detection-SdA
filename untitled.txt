@@ -1,0 +1,19 @@
+ACT - Automated credit transfer
+at - after tax
+Ceq
+CSCO - # number of common shares outstanding at the year end, exluding tresury stocks and scrip
+dlc
+FIN - 
+ceq
+che
+oplease - operating lease,An operating lease is a contract that allows for the use of an asset but does not convey rights of ownership of the asset. 
+https://www.investopedia.com/terms/o/operatinglease.asp#ixzz5WZ3HDSFD 
+
+
+IB - independent broker, New York Stock Exchange member who executes orders for other floor brokers who have more volume than they can handle, or for firms whose exchange members are not on the floor.
+
+invt - Inventory 
+Tangible property held for sale, or materials used in a production process to make a product.
+
+
+PRCCF- market price per share
